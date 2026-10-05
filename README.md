@@ -48,7 +48,7 @@
 
 24. [Create a Student class using two objects to store the name and marks of students and print the details](Student.java)
 
-25. [Write a java code for Managing a To-Do List Adding, removing, and iterating over a simple Array List of tasks].(TodoList.java)
+25. [Write a java code for Managing a To-Do List Adding, removing, and iterating over a simple Array List of tasks](TodoList.java) 
 
 26. [Write a Java program to find two sums](TwoSums.java)
 
